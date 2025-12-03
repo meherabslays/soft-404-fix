@@ -1,0 +1,108 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "premiumShutki": "Premium Dry Fish",
+    "rawFish": "Raw Fish",
+    "balachao": "Balachao",
+    "recipe": "Shutki Recipe",
+    "events": {
+      "parent": "Events",
+      "childParent": {
+        "parent": "Huni Radhnat Guni Hon",
+        "child1": "Season 1",
+        "child2": "Season 2"
+      },
+      "child1": "Our Activities",
+      "child2": "ICCB Fair 1",
+      "child3": "ICCB Fair 1"
+    },
+    "delarship": "Dealership",
+    "investment": {
+      "parent": "Investment Opportunity",
+      "child1": "Project 1",
+      "child2": "Project 2"
+    },
+    "blog": "Shutki Blog",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "search": "Search...",
+    "suggestion": "Suggestions"
+  },
+  "Login": {
+    "title": "Log in",
+    "button": "Sign in",
+    "remember": "Remember me",
+    "Email": {
+      "title": "Email",
+      "description": "Enter your email"
+    },
+    "Password": {
+      "title": "Password",
+      "description": "Enter your password"
+    }
+  },
+  "Cart": {
+    "title": "Shopping Bag",
+    "total": "Total",
+    "button": "Place Order"
+  },
+  "Bottom": {
+    "Section1": {
+      "title": "Buy the Best Shutki in Bangladesh.",
+      "description": "At Shutkiz, we offer the finest selection of dried fish, known as Shutki in Bengali, sourced from the best coastal regions of Bangladesh. Our Shutki is carefully dried to preserve its rich flavor and nutrients, ensuring that every bite delivers an authentic taste. Whether you are looking for traditional varieties or new flavors, we guarantee fresh, high-quality Shutki delivered right to your door."
+    },
+    "Section2": {
+      "title": "Who We Are?",
+      "description": "Shutkiz is an online platform dedicated to providing the best quality dried fish in Bangladesh. We are passionate about bringing the traditional taste of Shutki to your home with ease and convenience. Our mission is to deliver top-notch products sourced from trusted suppliers, ensuring every purchase is fresh and flavorful. We pride ourselves on our quality and customer satisfaction."
+    },
+    "Section3": {
+      "title": "Products We Sell",
+      "description": "At Shutkiz, we offer a wide variety of dried fish products, including popular types like Chhuri Shutki, Loitta Shutki, and Rupchanda Shutki. Each product is carefully selected to meet the highest standards, ensuring premium taste and texture. Our catalog includes both whole and filleted options to suit your cooking needs. Explore our range and enjoy the authentic taste of Bangladesh finest Shutki!"
+    }
+  },
+  "Footer": {
+    "faq": "FAQ",
+    "return": "Return & Refund Policy",
+    "contact": "Contact Us",
+    "delivery": "Delivery Policy",
+    "about": "About Us",
+    "privacy": "Privacy Policies",
+    "terms": "Terms & Conditions",
+    "career": "Career",
+    "newsletter": "Subscribe Our Newsletter",
+    "mail": "Your mail address"
+  },
+  "HomePage": {
+    "Categories": {
+      "title": "Categories",
+      "cat1": "Premium Dry Fish",
+      "cat2": "Raw Fish",
+      "cat3": "Balachao",
+      "cat4": "Fish Chips",
+      "cat5": "Recipe Book",
+      "cat6": "Combo Package",
+      "cat7": "Dry Fish Gift Box"
+    },
+    "Slider": {
+      "section1": "Best Selling",
+      "section2": "Premium Dry Fish",
+      "section3": "Raw Fish",
+      "section4": "Shutki Recipe",
+      "section5": "Dried Fish Recipe Video",
+      "section6": "Who recommended Us",
+      "section7": "Media Coverage",
+      "section8": "Special Combo Packages",
+      "section9": "New Arrival"
+    },
+    "Buttons": {
+      "readMore": "Read more"
+    }
+  },
+  "NotFound": {
+    "title": "404",
+    "heading": "Page Not Found",
+    "description": "Oops! The page you're looking for doesn't exist. It might have been moved, deleted, or the URL might be incorrect.",
+    "button": "Go Back Home",
+    "productsTitle": "Explore Our Products"
+  }
+}
